@@ -4,8 +4,8 @@ Bu proje, modern ve responsive bir kişisel web sayfasıdır. kariyerini, beceri
 Tüm cihazlarda —mobil, tablet ve masaüstü— sorunsuz bir şekilde kullanılabilmektedir...
 
 
-<a href="https://orhancinici.github.io/kisisel_web_sayfasi">Demo için tıklayın</a>
+<a href="https://alisever.github.io/kisisel_web_sayfasi">Demo için tıklayın</a>
 
 
 
-<img src="https://raw.githubusercontent.com/orhancinici/kisisel_web_sayfasi/refs/heads/main/kisisel_web_sayfasi_img_1.png" alt="Açıklama Metni" width="1000" height="580">
+<img src="https://raw.githubusercontent.com/alisever/kisisel_web_sayfasi/refs/heads/main/kisisel_web_sayfasi_img_1.png" alt="Açıklama Metni" width="1000" height="580">
