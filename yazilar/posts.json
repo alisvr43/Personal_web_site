@@ -28,15 +28,5 @@
         "title": "JavaScript'te Promise Yapısı",
         "date": "14-06-2024",
         "filename": "javascript-promise.md"
-    },
-    {
-        "title": "React Hooks Nedir?",
-        "date": "28-09-2023",
-        "filename": "react-hooks-nedir.md"
-    },
-    {
-        "title": "WordPress Tema Geliştirme",
-        "date": "03-05-2024",
-        "filename": "wordpress-tema-gelistirme.md"
     }
 ]
