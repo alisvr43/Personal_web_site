@@ -1,8 +1,4 @@
----
-title: "Hadis İlimleri Anabilim Dalı"
-date: 2026-08-11
-tags: [Hadis, İlahiyat, Eğitim]
----
+
 
 # Hadis İlimleri Anabilim Dalı
 
