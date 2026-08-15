@@ -8,4 +8,4 @@ Tüm cihazlarda —mobil, tablet ve masaüstü— sorunsuz bir şekilde kullanı
 
 
 
-<img src="https://raw.githubusercontent.com/alisever/kisisel_web_sayfasi/refs/heads/main/kisisel_web_sayfasi_img_1.png" alt="Açıklama Metni" width="1000" height="580">
+<img src="https://github.com/alisvr43/Personal_web_site/blob/main/kisisel_web_sayfasi_img_1.png" alt="Açıklama Metni" width="1000" height="580">
