@@ -4,7 +4,7 @@ Bu proje, modern ve responsive bir kişisel web sayfasıdır. kariyerini, beceri
 Tüm cihazlarda —mobil, tablet ve masaüstü— sorunsuz bir şekilde kullanılabilmektedir...
 
 
-<a href="https://alisever.github.io/kisisel_web_sayfasi">Demo için tıklayın</a>
+<a href="https://alisvr43.github.io/Personal_web_site/">Demo için tıklayın</a>
 
 
 
