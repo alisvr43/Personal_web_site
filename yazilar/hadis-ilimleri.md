@@ -1,7 +1,7 @@
 # Deneme
 ## Deneme2
--1
--2
+- 1
+- 2
 
 # Hadis İlimleri Anabilim Dalı
 
